@@ -27,3 +27,4 @@ them. Throught active recall knowleage people will keep knowledge in mind
 - [ ] Insert image
 - [ ] Themes
 - [ ] Settings
+- [ ] i18n
