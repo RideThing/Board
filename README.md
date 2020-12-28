@@ -1,7 +1,9 @@
 # Thunder
 
-An application for organizing your knowleage and help you abstract models and links from
-them. Throught active recall knowleage people will keep knowledges in mind
+## Purpose
+
+Help people organize knowleage and abstract models and links from
+them. Throught active recall knowleage people will keep knowledge in mind
 
 ## Feature
 * Vim mode
