@@ -13,13 +13,15 @@ them. Throught active recall knowleage people will keep knowledges in mind
  
  ## Milestone
 - [x] Vim mode
+- [x] WYSIWYG
 - [x] Label as catelog
-- [] Block link
-- [] Table of content navigation
-- [] Sync to github
-- [] Integrate excalidraw
-- [] Concept graph
-- [] LocalStorage
-- [] Insert image
-- [] Themes
-- [] Settings
+- [x] Recent open files
+- [ ] Block link
+- [ ] Table of content navigation
+- [ ] Sync to github
+- [ ] Integrate excalidraw
+- [ ] Concept graph
+- [ ] LocalStorage
+- [ ] Insert image
+- [ ] Themes
+- [ ] Settings
