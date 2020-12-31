@@ -5,7 +5,7 @@
 Help people organize knowleage and abstract models and links from
 them. Throught active recall knowleage people will keep knowledge in mind
 
-[DEMO](http://my-bucket-1255185965.cos-website.ap-guangzhou.myqcloud.com)
+[DEMO](https://thunder-web.vercel.app/)
 
 ## Feature
 * Vim mode
