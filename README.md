@@ -2,8 +2,7 @@
 
 ## Purpose
 
-Help people organize knowleage and abstract models and links from
-them. try to help user to connect between knowledges and abstract model.
+Help people organize knowleage and abstract models and build connections from them.
 
 [DEMO](https://thunder-web.vercel.app/)
 
