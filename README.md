@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Help people to organize knowleage and abstract models base on notes. it will find connections between knowledages by algorithm.
+Help people to organize knowleage, find connections and abstract models base on notes and algorithms.
 
 [DEMO](https://thunder-web.vercel.app/)
 
