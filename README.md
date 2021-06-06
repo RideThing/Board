@@ -3,7 +3,7 @@
 ## Purpose
 
 Help people organize knowleage and abstract models and links from
-them. Throught active recall knowleage people will keep knowledge in mind
+them. try to help user to connect between knowledges and abstract model.
 
 [DEMO](https://thunder-web.vercel.app/)
 
