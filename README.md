@@ -13,6 +13,7 @@ Help people to organize knowleage, find connections and abstract models by AI.
 * Sync to Github
 * Integrate excalidraw
 * Concept graph
+* Intelligent suggestion
  
  ## Milestone
 - [x] Vim mode
