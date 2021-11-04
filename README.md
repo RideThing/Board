@@ -28,4 +28,5 @@ Help people to organize knowleage, find connections and abstract models by AI.
 - [ ] Insert image
 - [ ] Themes
 - [ ] Settings
+- [ ] Intelligent suggestion
 - [ ] i18n
