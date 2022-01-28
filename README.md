@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Help people to organize knowleage, find connections and abstract models by AI.
+Help people to organize knowleage, find connections and abstract models
 
 [DEMO](https://thunder-web.vercel.app/)
 
