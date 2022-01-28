@@ -20,12 +20,12 @@ Help people to organize knowleage, find connections and abstract models by AI.
 - [x] WYSIWYG
 - [x] Label as catelog
 - [x] Recent open files
+- [x] Table of content navigation
 - [ ] Block link
-- [ ] Table of content navigation
 - [ ] Sync to github
 - [ ] Integrate excalidraw
 - [ ] Concept graph
-- [ ] LocalStorage
+- [ ] Local storage
 - [ ] Insert image
 - [ ] Themes
 - [ ] Settings
