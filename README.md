@@ -1,8 +1,5 @@
 # Thunder
-
-## Purpose
-
-Help people to organize knowleage, find connections and abstract models
+Thunder is a mouseless WYSIWYG edtior, try to help people to organize knowleage, find connections and abstract models
 
 [DEMO](https://thunder-web.vercel.app/)
 
