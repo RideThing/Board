@@ -19,10 +19,10 @@ Thunder is a mouseless WYSIWYG edtior, try to help people to organize knowleage,
 - [x] Recent open files
 - [x] Table of content navigation
 - [ ] Block link
-- [ ] Sync to github
+- [ ] Search
+- [ ] Save to iCloud
 - [ ] Integrate excalidraw
 - [ ] Concept graph
-- [ ] Local storage
 - [ ] Insert image
 - [ ] Themes
 - [ ] Settings
