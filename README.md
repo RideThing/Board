@@ -15,12 +15,12 @@ Thunder is a mouseless WYSIWYG edtior, try to help people to organize knowleage,
  ## Milestone
 - [x] Vim mode
 - [x] WYSIWYG
-- [x] Label as catelog
+- [x] Tag as catelog
 - [x] Recent open files
 - [x] Table of content navigation
+- [x] Save to iCloud
 - [ ] Block link
 - [ ] Search
-- [ ] Save to iCloud
 - [ ] Integrate excalidraw
 - [ ] Concept graph
 - [ ] Insert image
