@@ -1,5 +1,5 @@
-# Thunder
-Thunder is a mouseless WYSIWYG edtior, try to help people to organize knowleage, find connections and abstract models
+# RideThing
+RideThing is a note taking app that design for mouseless lover and all data is local first, we hope people can be efficient and enjoy note taking and learning.
 
 [DEMO](https://thunder-web.vercel.app/)
 
