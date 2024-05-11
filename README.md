@@ -1,7 +1,6 @@
 # RideThing
 RideThing is a note taking app that design for mouseless lover and all data is local first, we hope people can be efficient and enjoy note taking and learning.
 
-[DEMO](https://thunder-web.vercel.app/)
 
 ## Feature
 * Vim mode
