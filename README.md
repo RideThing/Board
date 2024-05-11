@@ -18,13 +18,14 @@ Thunder is a mouseless WYSIWYG edtior, try to help people to organize knowleage,
 - [x] Tag as catelog
 - [x] Recent open files
 - [x] Table of content navigation
-- [x] Save to iCloud
-- [ ] Block link
-- [ ] Search
-- [ ] Integrate excalidraw
-- [ ] Concept graph
-- [ ] Insert image
+- [x] Save to Local
+- [x] Settings
+- [x] Snippets
+- [x] Search
+- [x] Insert image
+- [ ] Excalidraw
+- [ ] AI copilot
 - [ ] Themes
-- [ ] Settings
+- [ ] Block link
 - [ ] Intelligent suggestion
 - [ ] i18n
