@@ -28,3 +28,4 @@ RideThing is a note taking app that design for mouseless lover and all data is l
 - [ ] Block link
 - [ ] Intelligent suggestion
 - [ ] i18n
+- [ ] Slides
